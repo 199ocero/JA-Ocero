@@ -82,9 +82,9 @@
         </div>
         <div class="flex flex-row space-x-5">
           <a
-            href="https://gitlab.com/ocero-freelance-projects"
+            href="https://github.com/199ocero"
             class="transition ease-in-out hover:text-purple-600"
-            ><i class="fa-brands fa-gitlab"></i
+            ><i class="fa-brands fa-github"></i
           ></a>
           <a
             href="https://www.behance.net/freelance-ocero"
