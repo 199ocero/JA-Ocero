@@ -13,6 +13,49 @@
       >
         <div class="w-full lg:items-start">
           <img
+            src="~assets/images/portfolio.jpg"
+            alt=""
+            class="mx-auto transition ease-in-out rounded-lg lg:mx-0 w-60 lg:w-96 drop-shadow-2xl hover:animate-wiggle"
+          />
+        </div>
+        <div
+          class="flex flex-col items-center space-y-5 text-center lg:text-start lg:items-start"
+        >
+          <p class="text-sm font-bold text-purple-600">Featured Project</p>
+          <div class="bg-purple-600 w-8 rounded-lg h-0.5"></div>
+          <p class="text-2xl font-bold text-gray-600">Developer Portfolio</p>
+          <p>
+            Portfolio template inspired from VSCode UI that can be use by any
+            developers built from Nuxt.js and Tailwind CSS.
+          </p>
+          <div class="grid grid-cols-2 gap-2 text-center">
+            <span class="px-3 py-1 text-sm text-white bg-gray-700 rounded-lg"
+              >Nuxt.js</span
+            >
+            <span class="px-3 py-1 text-sm text-white bg-gray-700 rounded-lg"
+              >Tailwind CSS</span
+            >
+          </div>
+          <div>
+            <div class="flex flex-row items-center space-x-8 lg:space-y-0">
+              <a
+                href="https://developer-portfolio.onrender.com/"
+                class="transition ease-in-out hover:text-purple-600"
+                >Check project
+              </a>
+              <i class="text-gray-500 fa-solid fa-angles-left bounce-side"></i>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        data-aos="fade-up"
+        data-aos-delay="200"
+        data-aos-duration="600"
+        class="grid items-center grid-cols-1 gap-10 lg:grid-cols-2"
+      >
+        <div class="w-full lg:items-start">
+          <img
             src="~assets/images/sphonexs.jpg"
             alt=""
             class="mx-auto transition ease-in-out rounded-lg lg:mx-0 w-60 lg:w-96 drop-shadow-2xl hover:animate-wiggle"

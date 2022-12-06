@@ -1,0 +1,65 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/Users/jay-areocero/personalprojects/JA-Ocero/pages/about.vue",
+    "chunkName": "pages/about",
+    "url": "/about",
+    "_name": "_693ff20e"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "/Users/jay-areocero/personalprojects/JA-Ocero/pages/contact.vue",
+    "chunkName": "pages/contact",
+    "url": "/contact",
+    "_name": "_1b887ae1"
+  },
+  {
+    "name": "courses",
+    "path": "/courses",
+    "component": "/Users/jay-areocero/personalprojects/JA-Ocero/pages/courses.vue",
+    "chunkName": "pages/courses",
+    "url": "/courses",
+    "_name": "_1530ee79"
+  },
+  {
+    "name": "experience",
+    "path": "/experience",
+    "component": "/Users/jay-areocero/personalprojects/JA-Ocero/pages/experience.vue",
+    "chunkName": "pages/experience",
+    "url": "/experience",
+    "_name": "_401ab639"
+  },
+  {
+    "name": "projects",
+    "path": "/projects",
+    "component": "/Users/jay-areocero/personalprojects/JA-Ocero/pages/projects.vue",
+    "chunkName": "pages/projects",
+    "url": "/projects",
+    "_name": "_4507cf09"
+  },
+  {
+    "name": "tutorials",
+    "path": "/tutorials",
+    "component": "/Users/jay-areocero/personalprojects/JA-Ocero/pages/tutorials.vue",
+    "chunkName": "pages/tutorials",
+    "url": "/tutorials",
+    "_name": "_47446254"
+  },
+  {
+    "name": "tutorial-slug",
+    "path": "/tutorial/:slug?",
+    "component": "/Users/jay-areocero/personalprojects/JA-Ocero/pages/tutorial/_slug.vue",
+    "chunkName": "pages/tutorial/_slug",
+    "_name": "_57a96130"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/jay-areocero/personalprojects/JA-Ocero/pages/index.vue",
+    "chunkName": "pages/index",
+    "url": "/",
+    "_name": "_ee10665a"
+  }
+]
